@@ -1,0 +1,2 @@
+# fastfood-website
+.net

@@ -9,23 +9,43 @@ namespace MenuKhachHang
 {
     public partial class Form1 : Form
     {
-        int cartQty = 0;                // tổng số món
-        decimal cartTotal = 0m;         // tổng tiền
-        const decimal PRICE_FALLBACK = 50000m; // phòng khi Tag trống
+        int cartQty = 0;
+        decimal cartTotal = 0m;
+        const decimal PRICE_FALLBACK = 50000m;
 
-        // (tuỳ chọn) đếm số lượng theo từng món
         readonly Dictionary<string, int> itemQty = new Dictionary<string, int>();
+
+        // >>> ADD: label tổng (tìm tự động)
+        Label _lblTotalAmount;
 
         public Form1()
         {
             InitializeComponent();
-            UpdateCartLabel(); // "0 món - VND 0"
+            UpdateCartLabel();
+
+            // Hiển thị/ẩn panel giỏ
+            pnlCart.Visible = false;
+            pnlCart.BringToFront();
+
+            lblCart.Cursor = Cursors.Hand;
+            lblCart.Click -= lblCart_Click;
+            lblCart.Click += lblCart_Click;
+
+            this.Resize += (_, __) => { if (pnlCart.Visible) PositionCartPanel(); };
+
+            // >>> ADD: tìm label tổng theo nhiều tên
+            _lblTotalAmount =
+                this.Controls.Find("lblTotalAmount", true).FirstOrDefault() as Label ??
+                this.Controls.Find("lblTong", true).FirstOrDefault() as Label ??
+                this.Controls.Find("lblCartTotal", true).FirstOrDefault() as Label ??
+                this.Controls.Find("lblTotalValue", true).FirstOrDefault() as Label;
         }
 
- 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ApplyFilter(null); // hiển thị tất cả lúc đầu
+            // gỡ mọi control được thả sẵn trong flpCart (dòng mẫu)
+            flpCart.Controls.Clear();
+            ApplyFilter(null);
         }
 
         // CLICK CHUNG CHO TẤT CẢ NÚT GIỎ
@@ -33,30 +53,40 @@ namespace MenuKhachHang
         {
             var btn = (Button)sender;
 
-            // 1) GIÁ từ Tag (vd: "50000")
+            // 1) GIÁ
             decimal price = PRICE_FALLBACK;
             if (btn.Tag != null && decimal.TryParse(btn.Tag.ToString(), out var p))
                 price = p;
 
-            // 2) TÊN món: ưu tiên AccessibleDescription, rỗng thì lấy Name
+            // 2) TÊN
             string name = string.IsNullOrWhiteSpace(btn.AccessibleDescription)
                             ? btn.Name
                             : btn.AccessibleDescription;
 
-            // 3) Cộng theo món (tuỳ chọn)
+            // 3) ẢNH từ PictureBox trong cùng card
+            Image thumb = GetCardImageFrom(btn);
+
+            // 4) Cộng tổng
             if (!itemQty.ContainsKey(name)) itemQty[name] = 0;
             itemQty[name]++;
 
-            // 4) Cộng tổng
             cartQty++;
             cartTotal += price;
+
+            // >>> ADD: tạo 1 dòng trong giỏ
+            AddCartRow(name, price, thumb);
 
             UpdateCartLabel();
         }
 
+        // >>> SỬA lại UpdateCartLabel để cập nhật cả label tổng
         void UpdateCartLabel()
         {
             lblCart.Text = $"{cartQty} món - {FormatVnd(cartTotal)}";
+
+            // cập nhật dòng tổng ở panel giỏ nếu có
+            if (_lblTotalAmount != null)
+                _lblTotalAmount.Text = FormatVnd(cartTotal);
         }
 
         static string FormatVnd(decimal money)
@@ -65,19 +95,7 @@ namespace MenuKhachHang
             return $"VND {money.ToString("N0", vi)}";
         }
 
-        // (tuỳ chọn) đệ quy lấy toàn bộ control con
-        static IEnumerable<Control> GetAllControls(Control root)
-        {
-            foreach (Control c in root.Controls)
-            {
-                foreach (var child in GetAllControls(c))
-                    yield return child;
-                yield return c;
-            }
-        }
-        // ===================== BỘ LỌC MÓN ĂN =====================
-
-        // Hàm lọc theo loại
+        // ======= FILTER =======
         private void ApplyFilter(string category)
         {
             foreach (Control card in flpMenu.Controls)
@@ -90,21 +108,17 @@ namespace MenuKhachHang
                     card.Visible = match;
                 }
             }
-
             SetActiveButtonStyle(category);
         }
 
-        // Đổi màu nút đang chọn
         private void SetActiveButtonStyle(string category)
         {
             var buttons = new[] { btnAll, btnMonMy, btnMonBanh, btnDoCuon };
-
             foreach (var b in buttons)
             {
                 b.BackColor = SystemColors.Control;
                 b.ForeColor = Color.Black;
             }
-
             Button active = btnAll;
             if (string.Equals(category, "MonMy", StringComparison.OrdinalIgnoreCase)) active = btnMonMy;
             else if (string.Equals(category, "MonBanh", StringComparison.OrdinalIgnoreCase)) active = btnMonBanh;
@@ -114,34 +128,142 @@ namespace MenuKhachHang
             active.ForeColor = Color.White;
         }
 
-        // Các handler Click cho 4 nút lọc
         private void btnAll_Click(object sender, EventArgs e) => ApplyFilter(null);
         private void btnMonMy_Click(object sender, EventArgs e) => ApplyFilter("MonMy");
         private void btnMonBanh_Click(object sender, EventArgs e) => ApplyFilter("MonBanh");
         private void btnDoCuon_Click(object sender, EventArgs e) => ApplyFilter("DoCuon");
 
-        // ==== STUBS cho các event Designer đang gán ====
-        // Paint
+        // ======= STUBS CŨ (để khỏi lỗi) =======
         private void panel1_Paint(object sender, PaintEventArgs e) { }
         private void flowLayoutPanel5_Paint(object sender, PaintEventArgs e) { }
-
-        // Mouse Enter/Leave (panel1 và panel2, pictureBox1, lblName đang dùng chung panel1_* )
         private void panel1_MouseEnter(object sender, EventArgs e) { }
         private void panel1_MouseLeave(object sender, EventArgs e) { }
+        private void label1_Click(object sender, EventArgs e) { }
+        private void label1_Click_1(object sender, EventArgs e) { }
+        private void label5_Click(object sender, EventArgs e) { }
+        private void label7_Click(object sender, EventArgs e) { }
+        private void panel1_Paint_1(object sender, PaintEventArgs e) { }
+        private void cartItemControl1_Load(object sender, EventArgs e) { }
 
-        // Click các label
-        private void label1_Click(object sender, EventArgs e) { }      // lblName.Click
-        private void label1_Click_1(object sender, EventArgs e) { }    // label1.Click
-        private void label2_Click(object sender, EventArgs e) { }      // lblCart.Click
-        private void label5_Click(object sender, EventArgs e) { }      // label5.Click
-        private void label7_Click(object sender, EventArgs e) { }      // label7.Click
-
-        private void panel1_Paint_1(object sender, PaintEventArgs e)
+        // ========== HIỆN/ẨN PANEL GIỎ ==========
+        private void PositionCartPanel()
         {
+            var bottomRightScreen = lblCart.PointToScreen(new Point(lblCart.Width, lblCart.Height));
+            var host = pnlCart.Parent ?? this;
+            var p = host.PointToClient(bottomRightScreen);
 
+            int x = p.X - pnlCart.Width;
+            int y = p.Y + 6;
+
+            x = Math.Max(0, Math.Min(x, host.ClientSize.Width - pnlCart.Width - 4));
+            y = Math.Max(0, Math.Min(y, host.ClientSize.Height - pnlCart.Height - 4));
+
+            pnlCart.Location = new Point(x, y);
+            pnlCart.BringToFront();
         }
 
-        // Giữ nguyên các handler hover/paint bạn đã có…
-        // panel1_MouseEnter/MouseLeave, panel1_Paint, labelX_Click...
+        private void lblCart_Click(object sender, EventArgs e)
+        {
+            UpdateCartLabel(); // ép cập nhật tổng mới nhất
+
+            if (!pnlCart.Visible)
+            {
+                foreach (Control c in flpCart.Controls)
+                    c.Width = flpCart.ClientSize.Width - 8;
+
+                PositionCartPanel();
+                pnlCart.Visible = true;
+            }
+            else pnlCart.Visible = false;
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            flpCart.Controls.Clear();
+            cartQty = 0;
+            cartTotal = 0;
+            itemQty.Clear();
+            UpdateCartLabel();
+            pnlCart.Visible = false;
+        }
+
+        private void btnCheckout_Click(object sender, EventArgs e)
+        {
+            if (cartQty == 0)
+            {
+                MessageBox.Show("Giỏ hàng đang trống.", "Thông báo",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+
+            MessageBox.Show($"Tổng cộng: {FormatVnd(cartTotal)} cho {cartQty} món.",
+                "Thanh toán", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            btnClear_Click(sender, e);
+        }
+
+        protected override void OnDeactivate(EventArgs e)
+        {
+            base.OnDeactivate(e);
+            pnlCart.Visible = false;
+        }
+
+        // ========== LẤY ẢNH TỪ CARD ==========
+        private Image GetCardImageFrom(Button btn)
+        {
+            Control card = btn;
+            while (card != null && !(card is Panel)) card = card.Parent;
+            if (card == null) card = btn.Parent;
+
+            var pic = card.Controls.CastControlTree()
+                                   .OfType<PictureBox>()
+                                   .FirstOrDefault();
+            return pic?.Image;
+        }
+
+        // ========== TẠO 1 DÒNG TRONG GIỎ ==========
+        private void AddCartRow(string name, decimal price, Image thumb)
+        {
+            var row = new CartItemControl
+            {
+                ItemName = name,
+                Price = price
+            };
+            if (thumb != null) row.Thumbnail = thumb;
+            row.Width = flpCart.ClientSize.Width - 8;
+
+            row.RemoveRequested += (s, e) =>
+            {
+                flpCart.Controls.Remove(row);
+                cartQty = Math.Max(0, cartQty - 1);
+                cartTotal = Math.Max(0, cartTotal - price);
+
+                if (itemQty.ContainsKey(name))
+                {
+                    itemQty[name] = Math.Max(0, itemQty[name] - 1);
+                    if (itemQty[name] == 0) itemQty.Remove(name);
+                }
+
+                UpdateCartLabel();
+                if (cartQty == 0) pnlCart.Visible = false;
+            };
+
+            flpCart.Controls.Add(row);
+            flpCart.ScrollControlIntoView(row);
+        }
+    }
+
+    // ======= helper duyệt cây control =======
+    static class ControlExtensions
+    {
+        public static IEnumerable<Control> CastControlTree(this Control.ControlCollection controls)
+        {
+            foreach (Control c in controls)
+            {
+                foreach (var child in c.Controls.CastControlTree())
+                    yield return child;
+                yield return c;
+            }
+        }
     }
 }

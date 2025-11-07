@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+
+# SQL / Local data
+*.mdf
+*.ldf
+
+# Others
+*.dbmdl
+*.jfm
+*.bak
+*.tmp
+*.log
+*.scc

@@ -4,6 +4,8 @@ using System.Drawing;
 using System.Globalization;
 using System.Linq;
 using System.Windows.Forms;
+using Microsoft.Data.SqlClient;
+using System.Data;
 
 namespace MenuKhachHang
 {
@@ -18,12 +20,16 @@ namespace MenuKhachHang
         // >>> ADD: label tổng (tìm tự động)
         Label _lblTotalAmount;
 
+
+        //chuoiketnoi
+        string connectionString = "Data Source=DESKTOP-12ACNU2\\SQLEXPRESS;Initial Catalog=QuanLiNhaHang;Integrated Security=True;Trust Server Certificate=True";
+
         public Form1()
         {
             InitializeComponent();
             UpdateCartLabel();
 
-            // Hiển thị/ẩn panel giỏ
+           //panel menu do an 
             pnlCart.Visible = false;
             pnlCart.BringToFront();
 
@@ -45,7 +51,90 @@ namespace MenuKhachHang
         {
             // gỡ mọi control được thả sẵn trong flpCart (dòng mẫu)
             flpCart.Controls.Clear();
-            ApplyFilter(null);
+            ketNoiDb();
+        }
+
+        private void ketNoiDb()
+        {
+            flpMenu.Controls.Clear();
+            string sql = "SELECT MaMon, TenMon, Gia, MaLoai, SoLuong FROM MON_AN";
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            using (SqlCommand cmd = new SqlCommand(sql, conn))
+            {
+                conn.Open();
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        string ma = reader["MaMon"].ToString();
+                        string ten = reader["TenMon"].ToString();
+                        decimal gia = Convert.ToDecimal(reader["Gia"]);
+                        string loai = reader["MaLoai"].ToString().Trim();
+                        int soLuong = Convert.ToInt32(reader["SoLuong"]);
+                        Panel theMon = new Panel()
+                        {
+                            Width = 200,
+                            Height = 250,
+                            BackColor = Color.White,
+                            BorderStyle = BorderStyle.FixedSingle,
+                            Tag = loai
+                        };
+
+                        PictureBox pic = new PictureBox()
+                        {
+                            ImageLocation = $"Images/{ma}.jpg", //hien tai chua co anh
+                            SizeMode = PictureBoxSizeMode.StretchImage,
+                            Dock = DockStyle.Top,
+                            Height = 130
+                        };
+
+                        Label lblTen = new Label()
+                        {
+                            Text = ten,
+                            Dock = DockStyle.Top,
+                            Height = 35,
+                            TextAlign = ContentAlignment.MiddleCenter,
+                            Font = new Font("Segoe UI", 10, FontStyle.Bold)
+                        };
+
+                        Label lblGia = new Label()
+                        {
+                            Text = $"Giá: {gia:N0} đ",
+                            Dock = DockStyle.Top,
+                            Height = 25,
+                            TextAlign = ContentAlignment.MiddleCenter
+                        };
+
+                        Label lblSoLuong = new Label()
+                        {
+                            Text = $"Còn lại: {soLuong}",
+                            Dock = DockStyle.Top,
+                            Height = 25,
+                            TextAlign = ContentAlignment.MiddleCenter,
+                            ForeColor = soLuong > 0 ? Color.DarkGreen : Color.Red
+                        };
+
+                        Button btnAdd = new Button()
+                        {
+                            Text = "Thêm vào giỏ",
+                            Dock = DockStyle.Bottom,
+                            Tag = gia,
+                            AccessibleDescription = ten,
+                            Enabled = soLuong > 0
+                        };
+
+                        btnAdd.Click += btnAddToCart_Click;
+
+                        theMon.Controls.Add(btnAdd);
+                        theMon.Controls.Add(lblSoLuong);
+                        theMon.Controls.Add(lblGia);
+                        theMon.Controls.Add(lblTen);
+                        theMon.Controls.Add(pic);
+
+                        flpMenu.Controls.Add(theMon);
+                    }
+                }
+            }
         }
 
         // CLICK CHUNG CHO TẤT CẢ NÚT GIỎ
@@ -102,7 +191,7 @@ namespace MenuKhachHang
             {
                 if (card is Panel)
                 {
-                    var tag = (card.Tag ?? "").ToString();
+                    var tag = (card.Tag ?? "").ToString().Trim();
                     bool match = string.IsNullOrEmpty(category)
                                  || tag.Equals(category, StringComparison.OrdinalIgnoreCase);
                     card.Visible = match;
@@ -129,9 +218,9 @@ namespace MenuKhachHang
         }
 
         private void btnAll_Click(object sender, EventArgs e) => ApplyFilter(null);
-        private void btnMonMy_Click(object sender, EventArgs e) => ApplyFilter("MonMy");
-        private void btnMonBanh_Click(object sender, EventArgs e) => ApplyFilter("MonBanh");
-        private void btnDoCuon_Click(object sender, EventArgs e) => ApplyFilter("DoCuon");
+        private void btnMonMy_Click(object sender, EventArgs e) => ApplyFilter("LM01");
+        private void btnMonBanh_Click(object sender, EventArgs e) => ApplyFilter("LM02");
+        private void btnDoCuon_Click(object sender, EventArgs e) => ApplyFilter("LM03");
 
         // ======= STUBS CŨ (để khỏi lỗi) =======
         private void panel1_Paint(object sender, PaintEventArgs e) { }

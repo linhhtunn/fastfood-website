@@ -1,0 +1,293 @@
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.exe.config
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.exe
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.pdb
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Core.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Identity.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ClientModel.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.Data.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Core.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Identity.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ClientModel.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.Data.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.CartItemControl.resources
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.Form1.resources
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhac.8666E0B7.Up2Date
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.exe
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.pdb
+C:\Users\ADMIN\Downloads\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.exe.config
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.AssemblyReference.cache
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.exe.config
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.CartItemControl.resources
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.Form1.resources
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.FrmThanhToan.resources
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.Properties.Resources.resources
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.GenerateResource.cache
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.CoreCompileInputs.cache
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.exe
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.pdb
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.exe.config
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.exe
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.pdb
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Core.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Identity.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Buffers.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ClientModel.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.Data.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.AccessControl.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Principal.Windows.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Json.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ValueTuple.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Core.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Identity.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Buffers.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ClientModel.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.Data.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.AccessControl.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Principal.Windows.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Json.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ValueTuple.xml
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Nam 3 ky 1\Laptrinh.net\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhac.8666E0B7.Up2Date
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.exe.config
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.exe
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\MenuKhachHang.pdb
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Core.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Identity.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Buffers.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ClientModel.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.Data.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Json.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ValueTuple.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Core.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Azure.Identity.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Buffers.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ClientModel.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Memory.Data.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Text.Json.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\System.ValueTuple.xml
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.AssemblyReference.cache
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.exe.config
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.CartItemControl.resources
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.Form1.resources
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.FrmThanhToan.resources
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.Properties.Resources.resources
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.GenerateResource.cache
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhac.8666E0B7.Up2Date
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.exe
+C:\Users\accta\Downloads\MenuKhachHang_ThanhToan\MenuKhachHang (1)\MenuKhachHang\MenuKhachHang\MenuKhachHang\obj\Debug\MenuKhachHang.pdb
